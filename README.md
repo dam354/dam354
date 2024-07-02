@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Dan Mennella
 
-Front-End Developer with a passion for creating intuitive and visually appealing user interfaces. Currently expanding my skills into full-stack development with a focus on Python backend.
+Front-End Developer with a passion for creating intuitive and visually appealing user interfaces. Currently expanding my skills into full-stack development with Python for backend.
 
 ## 🚀 Skills & Technologies
 
