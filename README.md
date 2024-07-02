@@ -1,1 +1,29 @@
-![Metrics](https://metrics.lecoq.io/dam354?template=classic&habits=1&languages=1&projects=1&pagespeed=1&music=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=1&projects.descriptions=false&pagespeed.url=danielmennella.com&pagespeed.detailed=false&pagespeed.screenshot=false&music.provider=spotify&music.mode=recent&music.limit=3&music.played.at=true&music.user=dam354&config.timezone=America%2FNew_York)
+# Hi there! 👋 I'm Dan Mennella
+
+Front-End Developer with a passion for creating intuitive and visually appealing user interfaces. Currently expanding my skills into full-stack development with a focus on Python backend.
+
+## 🚀 Skills & Technologies
+
+- Frontend: JavaScript, HTML, CSS, React, Vue.js
+- Backend: Python (learning)
+- Other: Responsive Design, SEO optimization
+
+## 💼 Professional Experience
+
+- **Front-End Developer** at Jackson Hewitt Tax Services (2020-2024)
+- **Email Production Developer** at Bed Bath & Beyond (2019)
+- **Junior Front-End Developer** at Ergo Interactive (2017-2018)
+
+## 🌱 I'm currently...
+
+- Learning backend development using Python
+- Working on a React app to showcase full-stack skills
+- Exploring modern web development practices and performance optimization
+
+## 📫 Get in Touch
+
+- LinkedIn: [linkedin.com/in/dan-mennella/](https://linkedin.com/in/dan-mennella/)
+- Portfolio: [danmennella.dev](https://danmennella.dev)
+- Location: Florham Park, NJ
+
+Feel free to check out my repositories to see what I'm working on!
